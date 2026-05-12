@@ -1,0 +1,6 @@
+[submodule "rest"]
+	path = rest
+	url = git@github.com:dr-glasdou/nest-rest-template.git
+[submodule "gql"]
+	path = gql
+	url = git@github.com:dr-glasdou/nest-gql-template.git
